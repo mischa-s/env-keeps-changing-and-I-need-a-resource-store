@@ -12,6 +12,4 @@
 - [Lots of useful hook recipes](https://usehooks.com/)
 
 ### React internals
-- [Everything Dan Abramov knows about React](
-
-https://overreacted.io/react-as-a-ui-runtime/)
+- [Everything Dan Abramov knows about React](https://overreacted.io/react-as-a-ui-runtime/)
